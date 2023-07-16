@@ -1,0 +1,1 @@
+import data from './js/i-scream.json' assert { type: 'json' };
